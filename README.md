@@ -13,7 +13,7 @@ This project requires **Python** and the following Python libraries installed:
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [Jupyter Notebook](https://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has most of the above packages and more included or if you don't want to install a huge number of packages then you can try [Miniconda](https://conda.io/miniconda.html) and then install the above packages.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has most of the above packages and more included or if you don't want to install a huge number of packages then you can try [Miniconda](https://conda.io/miniconda.html) and then install the above packages.
 
 ### Code
 
