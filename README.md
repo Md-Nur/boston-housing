@@ -1,23 +1,23 @@
-# Machine Learning Engineer Nanodegree
-# Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+# Udacity: Machine Learning Foundation Nanodegree
+
+## Model Evaluation and Validation Project: Predicting Boston Housing Prices
 
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [NumPy](https://www.numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [Jupyter Notebook](https://ipython.org/notebook.html)
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
-
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has most of the above packages and more included or if you don't want to install a huge number of packages then you can try [Miniconda](https://conda.io/miniconda.html) and then install the above packages.
 
 ### Code
 
-Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+Code is in the `boston_housing.ipynb` notebook file. Also required is the included `visuals_md.py` Python file which contains some modified code for model visualizations and the `housing.csv` dataset file.
 
 ### Run
 
@@ -26,7 +26,9 @@ In a terminal or command window, navigate to the top-level project directory `bo
 ```bash
 ipython notebook boston_housing.ipynb
 ```  
+
 or
+
 ```bash
 jupyter notebook boston_housing.ipynb
 ```
