@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Code is in the `boston_housing.ipynb` notebook file. Also required is the included `visuals_md.py` Python file which contains some modified code for model visualizations and the `housing.csv` dataset file.
+Code is in the [boston_housing.ipynb](boston_housing.ipynb) notebook file. Also required is the included [visuals_md.py](visuals_md.py) python file which contains some modified code for model visualizations and the [housing.csv](housing.csv) dataset file.
 
 ### Run
 
@@ -34,6 +34,10 @@ jupyter notebook boston_housing.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
+
+### Report
+
+Report can be viewed by downloading and opening [report_boston_housing.html](report_boston_housing.html) in the browser.
 
 ### Data
 
