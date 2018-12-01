@@ -24,20 +24,20 @@ Code is in the [boston_housing.ipynb](boston_housing.ipynb) notebook file. Also 
 In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
-```  
+jupyter notebook boston_housing.ipynb
+```
 
 or
 
 ```bash
-jupyter notebook boston_housing.ipynb
+ipython notebook boston_housing.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-### Report
+### Project Report
 
-Report can be viewed by downloading and opening [report_boston_housing.html](report_boston_housing.html) in the browser.
+Report can be viewed at [**https://maneeshd.github.io/boston-housing/**](https://maneeshd.github.io/boston-housing/).
 
 ### Data
 
