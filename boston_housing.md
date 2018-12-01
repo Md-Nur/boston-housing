@@ -381,7 +381,7 @@ vs.ModelLearning(features, prices)
 ```
 
 
-![png](output_27_0.png)
+![png](boston_housing_files/boston_housing_27_0.png)
 
 
 ### Question 4 - Learning the Data
@@ -409,7 +409,7 @@ vs.ModelComplexity(X_train, y_train)
 ```
 
 
-![png](output_31_0.png)
+![png](boston_housing_files/boston_housing_31_0.png)
 
 
 ### Question 5 - Bias-Variance Tradeoff
