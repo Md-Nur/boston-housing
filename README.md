@@ -2,6 +2,10 @@
 
 ## Model Evaluation and Validation Project: Predicting Boston Housing Prices
 
+### Project Report
+
+Report can be viewed at [**https://maneeshd.github.io/boston-housing/**](https://maneeshd.github.io/boston-housing/).
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
@@ -34,10 +38,6 @@ ipython notebook boston_housing.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
-
-### Project Report
-
-Report can be viewed at [**https://maneeshd.github.io/boston-housing/**](https://maneeshd.github.io/boston-housing/).
 
 ### Data
 
